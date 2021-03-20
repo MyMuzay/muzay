@@ -1,0 +1,13 @@
+{
+    "attributes" : [ {
+      "trait_type" : "Breed",
+      "value" : "Tortoiseshell"
+    }, {
+      "trait_type" : "Eye color",
+      "value" : "Light Green"
+    } ],
+    "description" : "The world's most adorable, chunky kitty.",
+    "image" : "https://gateway.pinata.cloud/ipfs/Qma4NNLZCGUtrbH6RypkNbWaR4Zx2j3uZQf17jtub6WBXy",
+    "name" : "Arya"
+}
+
